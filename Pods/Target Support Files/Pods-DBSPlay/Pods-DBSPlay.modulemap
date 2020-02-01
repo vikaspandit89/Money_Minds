@@ -1,0 +1,6 @@
+framework module Pods_DBSPlay {
+  umbrella header "Pods-DBSPlay-umbrella.h"
+
+  export *
+  module * { export * }
+}

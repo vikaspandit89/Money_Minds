@@ -1,0 +1,6 @@
+framework module Pods_DBSPlayTests {
+  umbrella header "Pods-DBSPlayTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
